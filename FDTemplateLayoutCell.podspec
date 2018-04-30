@@ -1,6 +1,6 @@
 
 Pod::Spec.new do |s|
-  s.name         = "FDTemplateLayoutCell"
+  s.name         = "UITableView+FDTemplateLayoutCell+LighthouseX"
   s.version      = "0.1.7"
   s.summary      = "Template auto layout cell for automatically UITableViewCell height calculate, cache and precache"
   s.description  = "Template auto layout cell for automatically UITableViewCell height calculate, cache and precache. Requires a `self-satisfied` UITableViewCell, using system's `- systemLayoutSizeFittingSize:`, provides heights caching."
