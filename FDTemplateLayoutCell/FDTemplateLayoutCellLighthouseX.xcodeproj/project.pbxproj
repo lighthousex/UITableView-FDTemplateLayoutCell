@@ -25,7 +25,7 @@
 		485022101C3A86EC00BD389E /* UITableView+FDKeyedHeightCache.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UITableView+FDKeyedHeightCache.m"; sourceTree = "<group>"; };
 		485022111C3A86EC00BD389E /* UITableView+FDTemplateLayoutCellDebug.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UITableView+FDTemplateLayoutCellDebug.h"; sourceTree = "<group>"; };
 		485022121C3A86EC00BD389E /* UITableView+FDTemplateLayoutCellDebug.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UITableView+FDTemplateLayoutCellDebug.m"; sourceTree = "<group>"; };
-		E19608CD1BAD53AF00BDCBBE /* FDTemplateLayoutCell.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = FDTemplateLayoutCell.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		E19608CD1BAD53AF00BDCBBE /* FDTemplateLayoutCellLighthouseX.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = FDTemplateLayoutCellLighthouseX.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		E19608D01BAD53AF00BDCBBE /* FDTemplateLayoutCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FDTemplateLayoutCell.h; sourceTree = "<group>"; };
 		E19608D21BAD53AF00BDCBBE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E19608DE1BAD54EB00BDCBBE /* UITableView+FDTemplateLayoutCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UITableView+FDTemplateLayoutCell.h"; sourceTree = "<group>"; };
@@ -55,7 +55,7 @@
 		E19608CE1BAD53AF00BDCBBE /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				E19608CD1BAD53AF00BDCBBE /* FDTemplateLayoutCell.framework */,
+				E19608CD1BAD53AF00BDCBBE /* FDTemplateLayoutCellLighthouseX.framework */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -103,9 +103,9 @@
 /* End PBXHeadersBuildPhase section */
 
 /* Begin PBXNativeTarget section */
-		E19608CC1BAD53AF00BDCBBE /* FDTemplateLayoutCell */ = {
+		E19608CC1BAD53AF00BDCBBE /* FDTemplateLayoutCellLighthouseX */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = E19608D51BAD53AF00BDCBBE /* Build configuration list for PBXNativeTarget "FDTemplateLayoutCell" */;
+			buildConfigurationList = E19608D51BAD53AF00BDCBBE /* Build configuration list for PBXNativeTarget "FDTemplateLayoutCellLighthouseX" */;
 			buildPhases = (
 				E19608C81BAD53AF00BDCBBE /* Sources */,
 				E19608C91BAD53AF00BDCBBE /* Frameworks */,
@@ -116,9 +116,9 @@
 			);
 			dependencies = (
 			);
-			name = FDTemplateLayoutCell;
+			name = FDTemplateLayoutCellLighthouseX;
 			productName = FDTemplateLayoutCell;
-			productReference = E19608CD1BAD53AF00BDCBBE /* FDTemplateLayoutCell.framework */;
+			productReference = E19608CD1BAD53AF00BDCBBE /* FDTemplateLayoutCellLighthouseX.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 /* End PBXNativeTarget section */
@@ -134,7 +134,7 @@
 					};
 				};
 			};
-			buildConfigurationList = E19608C71BAD53AE00BDCBBE /* Build configuration list for PBXProject "FDTemplateLayoutCell" */;
+			buildConfigurationList = E19608C71BAD53AE00BDCBBE /* Build configuration list for PBXProject "FDTemplateLayoutCellLighthouseX" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -146,7 +146,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				E19608CC1BAD53AF00BDCBBE /* FDTemplateLayoutCell */,
+				E19608CC1BAD53AF00BDCBBE /* FDTemplateLayoutCellLighthouseX */,
 			);
 		};
 /* End PBXProject section */
@@ -301,7 +301,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		E19608C71BAD53AE00BDCBBE /* Build configuration list for PBXProject "FDTemplateLayoutCell" */ = {
+		E19608C71BAD53AE00BDCBBE /* Build configuration list for PBXProject "FDTemplateLayoutCellLighthouseX" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E19608D31BAD53AF00BDCBBE /* Debug */,
@@ -310,7 +310,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		E19608D51BAD53AF00BDCBBE /* Build configuration list for PBXNativeTarget "FDTemplateLayoutCell" */ = {
+		E19608D51BAD53AF00BDCBBE /* Build configuration list for PBXNativeTarget "FDTemplateLayoutCellLighthouseX" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E19608D61BAD53AF00BDCBBE /* Debug */,

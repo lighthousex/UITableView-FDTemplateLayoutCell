@@ -2,7 +2,7 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:FDTemplateLayoutCell/FDTemplateLayoutCell.xcodeproj">
+      location = "group:/Users/caoer115/Documents/Projects/lighthousex/ace-engine/AcePalace/Carthage/Checkouts/UITableView-FDTemplateLayoutCell/FDTemplateLayoutCell/FDTemplateLayoutCellLighthouseX.xcodeproj">
    </FileRef>
    <FileRef
       location = "group:Demo/Demo.xcodeproj">
