@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "E19608CC1BAD53AF00BDCBBE"
-               BuildableName = "FDTemplateLayoutCell.framework"
-               BlueprintName = "FDTemplateLayoutCell"
-               ReferencedContainer = "container:FDTemplateLayoutCell.xcodeproj">
+               BuildableName = "FDTemplateLayoutCellLighthouseX.framework"
+               BlueprintName = "FDTemplateLayoutCellLighthouseX"
+               ReferencedContainer = "container:FDTemplateLayoutCellLighthouseX.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -26,6 +26,7 @@
       buildConfiguration = "Debug"
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      language = ""
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
       </Testables>
@@ -36,6 +37,7 @@
       buildConfiguration = "Debug"
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      language = ""
       launchStyle = "0"
       useCustomWorkingDirectory = "NO"
       ignoresPersistentStateOnLaunch = "NO"
@@ -46,9 +48,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "E19608CC1BAD53AF00BDCBBE"
-            BuildableName = "FDTemplateLayoutCell.framework"
-            BlueprintName = "FDTemplateLayoutCell"
-            ReferencedContainer = "container:FDTemplateLayoutCell.xcodeproj">
+            BuildableName = "FDTemplateLayoutCellLighthouseX.framework"
+            BlueprintName = "FDTemplateLayoutCellLighthouseX"
+            ReferencedContainer = "container:FDTemplateLayoutCellLighthouseX.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -64,9 +66,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "E19608CC1BAD53AF00BDCBBE"
-            BuildableName = "FDTemplateLayoutCell.framework"
-            BlueprintName = "FDTemplateLayoutCell"
-            ReferencedContainer = "container:FDTemplateLayoutCell.xcodeproj">
+            BuildableName = "FDTemplateLayoutCellLighthouseX.framework"
+            BlueprintName = "FDTemplateLayoutCellLighthouseX"
+            ReferencedContainer = "container:FDTemplateLayoutCellLighthouseX.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </ProfileAction>
